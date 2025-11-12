@@ -1,4 +1,4 @@
-# SAL_BW_Project_3 – Retail Sales Data: Price Trends 📊
+# Retail Sales Data: Price Trends 📊
 
 ## Project Overview
 
